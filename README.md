@@ -9,6 +9,14 @@ boto3 - pip3 install boto3
 bs4 - pip3 install bsr
 ```
 
+Update below values(runner.py):
+
+```
+aws_access_key_id='your_key_id',
+aws_secret_access_key='your_access_key')
+bucket = s3.Bucket('your_bucket')
+```
+
 To run sync with python:
 
 ```
