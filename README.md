@@ -6,7 +6,7 @@ python libaries:
 
 ```
 boto3 - pip3 install boto3
-bs4 - pip3 install bsr
+bs4 - pip3 install bs4
 ```
 
 Update below values(runner.py):
